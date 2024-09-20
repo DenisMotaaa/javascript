@@ -1,0 +1,59 @@
+body {
+    background-color: rgb(31, 34, 34);
+}
+
+.container {
+    width: 400px;
+    background-color: purple;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+h1 {
+    color: gold;
+    letter-spacing: 3px;
+    text-shadow: 2px 4px 5px black;
+
+}
+
+.input-tarefa {
+    height: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.btn-tarefa {
+    color: white;
+    background-color: green;
+    padding: 5px;
+    cursor: pointer;
+    border: none;
+}
+
+.classApagarbtn {
+    padding: 5px;
+    color: white;
+    background-color: red;
+    border: 1px solid gold;
+    float: right;
+    cursor: pointer;
+
+}
+
+.tarefas {
+    margin: 15px 30px 15px 30px;
+    padding: 5px;
+}
+
+.liTarefa {
+    text-align: left;
+    list-style: none;
+    color: white;
+    padding: 3px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+
+}

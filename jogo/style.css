@@ -1,0 +1,33 @@
+body {
+    background-color: rgba(0, 0, 0, 0.822);
+    width: 50%;
+    max-width: 800px;
+    min-width: 480px;
+    margin: 0 auto;
+    font-family: sans-serif;
+
+}
+
+h1 {
+    color: gold;
+}
+
+p {
+    color: white;
+
+}
+
+.form input[type="number"] {
+    width: 200px;
+    color: red;
+
+}
+
+.lastResult {
+    color: white;
+    padding: 3px;
+}
+
+label {
+    color: white;
+}
